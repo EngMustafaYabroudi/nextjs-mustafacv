@@ -6,7 +6,7 @@ export default function Education() {
             <h1 className="text-3xl  dark:text-blue-500 mt-4 mb-0">Education</h1>
             <ul>
                 <li>
-                    <h1 className="text-3xl mt-4 mb-0">Master's Student in Artificial Intelligence</h1>
+                    <h1 className="text-3xl mt-4 mb-0">Master Student in Artificial Intelligence</h1>
                     <p className="mt-0 mb-0">
                         Since 2023
                     </p>
